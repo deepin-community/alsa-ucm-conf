@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.12-1deepin1) unstable; urgency=medium
+
+  * revert 64-bit time_t transitio.
+
+ -- lichenggang <lichenggang@deepin.org>  Wed, 23 Oct 2024 11:02:26 +0800
+
 alsa-ucm-conf (1.2.12-1) unstable; urgency=medium
 
   * New upstream release.
