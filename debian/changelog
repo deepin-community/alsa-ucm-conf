@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.12-1deepin2) unstable; urgency=medium
+
+  * add radxa dragon patches
+
+ -- Chang Yang <yangchang@deepin.org>  Thu, 22 Jan 2026 15:54:43 +0800
+
 alsa-ucm-conf (1.2.12-1deepin1) unstable; urgency=medium
 
   * revert 64-bit time_t transitio.
