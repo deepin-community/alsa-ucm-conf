@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.15.3-1deepin1) unstable; urgency=medium
+
+ * add radxa dragon patches.
+
+ -- liujiahe <liujiahe@uniontech.com>  Thu, 12 Mar 2026 15:24:02 +0800
+
 alsa-ucm-conf (1.2.15.3-1) unstable; urgency=medium
 
   * New upstream release.
