@@ -1,0 +1,26 @@
+Index: alsa-ucm-conf/ucm2/codecs/qcom-lpass/rx-macro/HeadphoneEnableSeq.conf
+===================================================================
+--- alsa-ucm-conf.orig/ucm2/codecs/qcom-lpass/rx-macro/HeadphoneEnableSeq.conf
++++ alsa-ucm-conf/ucm2/codecs/qcom-lpass/rx-macro/HeadphoneEnableSeq.conf
+@@ -6,6 +6,6 @@ EnableSequence [
+ 	cset "name='RX INT1_1 MIX1 INP0' RX1"
+ 	cset "name='RX INT0 DEM MUX' CLSH_DSM_OUT"
+ 	cset "name='RX INT1 DEM MUX' CLSH_DSM_OUT"
+-	cset "name='RX_COMP1 Switch' 1"
+-	cset "name='RX_COMP2 Switch' 1"
++	cset "name='RX_COMP1 Switch' 0"
++	cset "name='RX_COMP2 Switch' 0"
+ ]
+Index: alsa-ucm-conf/ucm2/codecs/qcom-lpass/rx-macro/init.conf
+===================================================================
+--- alsa-ucm-conf.orig/ucm2/codecs/qcom-lpass/rx-macro/init.conf
++++ alsa-ucm-conf/ucm2/codecs/qcom-lpass/rx-macro/init.conf
+@@ -1,6 +1,6 @@
+ # RX Digital codec specific volume control settings
+ 
+ BootSequence [
+-	cset "name='RX_RX0 Digital Volume' 84"
+-	cset "name='RX_RX1 Digital Volume' 84"
++	cset "name='RX_RX0 Digital Volume' 60"
++	cset "name='RX_RX1 Digital Volume' 60"
+ ]
