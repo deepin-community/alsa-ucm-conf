@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.15.3-1deepin2) unstable; urgency=medium
+
+  * Revert t64
+
+ -- zhaochengyi <zhaochengyi@uniontech.com>  Wed, 25 Mar 2026 16:41:19 +0800
+
 alsa-ucm-conf (1.2.15.3-1deepin1) unstable; urgency=medium
 
   * add radxa dragon patches. 
