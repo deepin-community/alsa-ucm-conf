@@ -3,3 +3,4 @@
 0003-ucm2-add-improved-Librem-5-profiles.patch
 0002-fix-radxa-dragon-q6a-config.patch
 0003-ucm2-Qualcomm-qcs6490-Add-DMI-match-for-Radxa-Dragon.patch
+0004-ucm2-HDA-HiFi-mic-use-dynamic-MicJackControl.patch

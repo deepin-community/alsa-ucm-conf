@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.15.3-1deepin3) unstable; urgency=medium
+
+  * Fix jack control name mismatch on Acer S40-54
+
+ -- qaqland <anguoli@uniontech.com>  Thu, 04 Jun 2026 16:51:22 +0800
+
 alsa-ucm-conf (1.2.15.3-1deepin2) unstable; urgency=medium
 
   * Revert t64
