@@ -1,3 +1,10 @@
+alsa-ucm-conf (1.2.15.3-1deepin4) unstable; urgency=medium
+
+  * Fix patch format in 0004-ucm2-HDA-HiFi-mic-use-dynamic-MicJackControl.patch
+    to use standard quilt format.
+
+ -- qaqland <anguoli@uniontech.com>  Mon, 08 Jun 2026 17:51:43 +0800
+
 alsa-ucm-conf (1.2.15.3-1deepin3) unstable; urgency=medium
 
   * Fix jack control name mismatch on Acer S40-54
