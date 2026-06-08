@@ -1,8 +1,6 @@
-Index: alsa-ucm-conf/ucm2/HDA/HiFi-mic.conf
-===================================================================
---- alsa-ucm-conf.orig/ucm2/HDA/HiFi-mic.conf
-+++ alsa-ucm-conf/ucm2/HDA/HiFi-mic.conf
-@@ -297,7 +297,7 @@ If.micsetup {
+--- a/ucm2/HDA/HiFi-mic.conf
++++ b/ucm2/HDA/HiFi-mic.conf
+@@ -297,7 +297,7 @@
  		Define {
  			DeviceMicName "Mic"
  			DeviceMicComment "Stereo Microphone"
@@ -10,3 +8,4 @@ Index: alsa-ucm-conf/ucm2/HDA/HiFi-mic.conf
 +			DeviceMicJack "${var:MicJackControl}"
  			DeviceMicPriority 200
  		}
+ 
