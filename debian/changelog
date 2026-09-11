@@ -1,3 +1,9 @@
+alsa-ucm-conf (1.2.15.3-1deepin5) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 09:57:35 +0800
+
 alsa-ucm-conf (1.2.15.3-1deepin4) unstable; urgency=medium
 
   * Fix patch format in 0004-ucm2-HDA-HiFi-mic-use-dynamic-MicJackControl.patch
